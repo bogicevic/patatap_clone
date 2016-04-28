@@ -9,3 +9,8 @@ canvas {
   height: 100%;
   width: 100%;
 }
+
+p {
+  color: #00ff00;
+  font-family: monospace;
+}
